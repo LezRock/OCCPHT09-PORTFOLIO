@@ -1,0 +1,1 @@
+This file contains the codes for the portfolio activity assigned at the bootcamp.
